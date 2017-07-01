@@ -1,0 +1,5 @@
+('/Users/rainpoll/Desktop/pythonProject/build/pythonFTP/paramiko-2.2.1-py2.7.egg',
+ None,
+ set(['*.py', '*.pyc', '*.pyd', '*.pyo', '*.so', 'EGG-INFO']),
+ 'DATA',
+ [])
